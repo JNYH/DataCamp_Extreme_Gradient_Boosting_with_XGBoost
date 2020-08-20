@@ -9,3 +9,6 @@ Chapter 3. Fine-tuning your XGBoost model
 
 Chapter 4. Using XGBoost in pipelines
 
+## Personal Notes:
+
+
