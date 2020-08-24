@@ -11,4 +11,3 @@ Chapter 4. Using XGBoost in pipelines
 
 ## Personal Notes:
 
-
