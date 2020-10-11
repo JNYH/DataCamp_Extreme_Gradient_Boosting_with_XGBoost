@@ -10,4 +10,4 @@ Chapter 3. Fine-tuning your XGBoost model
 Chapter 4. Using XGBoost in pipelines
 
 ## Personal Notes:
-
+https://medium.com/@jnyh/extreme-gradient-boosting-with-xgboost-dd711e4ce2a9
